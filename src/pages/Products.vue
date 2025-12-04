@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import {products} from "../data/products"
-import { ShoppingCart, Star, Filter, Heart, Plus, Home, Package } from "lucide-vue-next"
+import { ShoppingCart, Star, Filter, Heart, Plus, } from "lucide-vue-next"
 import { computed, ref } from "vue"
 import { useRouter } from "vue-router"
 import {useCartStore} from "../stores/cart"

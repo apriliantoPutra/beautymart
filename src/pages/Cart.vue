@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ShoppingCart, Home, Package, Trash2, Plus, Minus, ArrowLeft, CreditCard, Shield, Truck, Heart, Star } from 'lucide-vue-next'
+import { ShoppingCart, Home, Package, Trash2, Plus, Minus, CreditCard, Shield, Truck, Star } from 'lucide-vue-next'
 import { computed, ref } from 'vue'
 import { useCartStore } from '../stores/cart'
 
